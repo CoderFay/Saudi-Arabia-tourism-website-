@@ -14,7 +14,6 @@ Welcome to our online travel website! This project aims to provide an easy-to-us
 - **User-Friendly Interface**: Easy navigation and intuitive design.
 - **Aesthetic Design**: Visually stunning experience with attention to detail.
 - **Rich Content**: Showcasing Saudi Arabia's landscapes, cultural history, and travel options.
-- **Responsive Design**: Optimized for all devices, including desktops, tablets, and mobile phones.
 - **Interactive Elements**: Engaging and interactive elements to enhance user experience.
 
 ## Technologies Used
@@ -25,11 +24,11 @@ Welcome to our online travel website! This project aims to provide an easy-to-us
 - **Node.js**: Backend runtime environment for building scalable network applications.
 - **MongoDB**: NoSQL database for storing user data and website content.
 - **User Experience (UX)**: Focus on user needs and usability.
-- **Front-End Development**: Developing the client-side of the application.
+- **Front-End Development**: Developing the client side of the application.
 
 ## Video Demo
 
-Watch the Website video Demo [here]()
+Watch the Website video Demo [here](https://github.com/CoderFay/Saudi-Arabia-tourism-website-/blob/3d7a5d8582d2eaa48a96d9366f9dbad7df472230/Video/Website.MOV)
 
 ## Contact
 
